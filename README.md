@@ -22,6 +22,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 npm i react-icons
 ```
 
+# Installasi react-count-up
+```javascript
+npm i react-countup
+```
 
 ## Getting Started
 
