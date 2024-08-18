@@ -27,6 +27,11 @@ npm i react-icons
 npm i react-countup
 ```
 
+# Installasi Swiper
+```javascript
+npm i swiper
+```
+
 ## Getting Started
 
 First, run the development server:
